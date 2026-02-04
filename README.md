@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   
-# Halo, saya Nirvana (@naelxploit) 👋!
+# Halo, saya Nirvana (@Juremenn) 👋!
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D17D&center=true&vCenter=true&random=false&width=700&lines=Bug+Hunter+%7C+WhatsApp+Bot+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript" alt="Typing SVG" />
 
 [![Followers](https://img.shields.io/github/followers/naelxploit?label=Followers&style=for-the-badge)](https://github.com/naelxploit?tab=followers)
